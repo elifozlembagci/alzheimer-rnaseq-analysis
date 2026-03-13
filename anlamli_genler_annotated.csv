@@ -1,0 +1,394 @@
+probe_id,log2FC,p_adj,kategori,gene_symbol,gene_title
+212777_at,0.7079,2.844956339098635e-24,Artan,SOS1,son of sevenless homolog 1 (Drosophila)
+238143_at,1.4613,4.1504350238324257e-16,Artan,LYPD8,LY6/PLAUR domain containing 8
+221690_s_at,1.1014,8.8627440610053e-14,Artan,NLRP2,"NLR family, pyrin domain containing 2"
+206777_s_at,1.137,3.94733525087935e-12,Artan,CRYBB2 /// CRYBB2P1,"crystallin, beta B2 /// crystallin, beta B2 pseudogene 1"
+243727_at,0.662,2.2173369250613265e-11,Artan,CPNE8,copine VIII
+1554411_at,0.7731,2.0960003901547294e-10,Artan,CTNNB1,"catenin (cadherin-associated protein), beta 1, 88kDa"
+202203_s_at,0.8299,1.5941456991763204e-09,Artan,AMFR,"autocrine motility factor receptor, E3 ubiquitin protein ligase"
+205048_s_at,1.6715,1.873658009332039e-09,Artan,PSPH,phosphoserine phosphatase
+1553410_a_at,1.174,2.0138852401340326e-08,Artan,ABCC12,"ATP-binding cassette, sub-family C (CFTR/MRP), member 12"
+233547_x_at,0.6495,2.0625639452812726e-08,Artan,PDE1A,"phosphodiesterase 1A, calmodulin-dependent"
+235082_at,0.5037,4.850529333850599e-08,Artan,PCNX,pecanex homolog (Drosophila)
+1558680_s_at,0.6583,1.2939593552337775e-07,Artan,PDE1A,"phosphodiesterase 1A, calmodulin-dependent"
+230352_at,0.7392,1.6693721773698135e-07,Artan,PRPS2,phosphoribosyl pyrophosphate synthetase 2
+223592_s_at,-0.5389,2.4361705631281543e-07,Azalan,RNF135,ring finger protein 135
+233210_at,0.583,2.6614302016901115e-07,Artan,FLJ12120,uncharacterized LOC388439
+214980_at,0.6614,2.9480242354199846e-07,Artan,UBE3A,ubiquitin protein ligase E3A
+207693_at,0.6293,3.595977224585101e-07,Artan,CACNB4,"calcium channel, voltage-dependent, beta 4 subunit"
+205439_at,0.7617,5.800527506029485e-07,Artan,GSTT2,glutathione S-transferase theta 2
+232263_at,0.6758,6.543201924712374e-07,Artan,SLC6A15,"solute carrier family 6 (neutral amino acid transporter), member 15"
+242789_at,0.645,1.1131255093367065e-06,Artan,PDE1A,"phosphodiesterase 1A, calmodulin-dependent"
+201141_at,-0.6767,1.1697000004742595e-06,Azalan,GPNMB,glycoprotein (transmembrane) nmb
+219666_at,-0.9278,1.205628428159509e-06,Azalan,MS4A6A,"membrane-spanning 4-domains, subfamily A, member 6A"
+214821_at,0.5079,2.21173870497071e-06,Artan,SLC25A4,"solute carrier family 25 (mitochondrial carrier; adenine nucleotide translocator), member 4"
+1558444_at,0.659,2.6004190744118694e-06,Artan,DQ592442,"Homo sapiens cDNA FLJ35140 fis, clone PLACE6009524."
+223708_at,0.5453,2.6313995104345927e-06,Artan,C1QTNF4,C1q and tumor necrosis factor related protein 4
+207099_s_at,0.7333,3.1065360533168823e-06,Artan,CHM,choroideremia (Rab escort protein 1)
+227506_at,-0.676,3.104637437572948e-06,Azalan,SLC16A9,"solute carrier family 16, member 9"
+1552878_at,0.6361,3.456753948165072e-06,Artan,ATOH7,atonal homolog 7 (Drosophila)
+1569013_s_at,0.5871,3.892333355104392e-06,Artan,BMS1P20 /// LOC101929959,BMS1 pseudogene 20 /// ribosome biogenesis protein BMS1 homolog
+1554592_a_at,0.7675,4.55493807189381e-06,Artan,SLC1A6,"solute carrier family 1 (high affinity aspartate/glutamate transporter), member 6"
+227340_s_at,0.5839,5.015543561128577e-06,Artan,RGMB,repulsive guidance molecule family member b
+232904_at,0.6844,5.467014442408343e-06,Artan,SLC7A14,"solute carrier family 7, member 14"
+228532_at,-0.6154,5.524533204135251e-06,Azalan,C1orf162,chromosome 1 open reading frame 162
+228795_at,0.6659,5.496607296506561e-06,Artan,PRKCB,"protein kinase C, beta"
+1554593_s_at,0.6064,5.859830991654759e-06,Artan,SLC1A6,"solute carrier family 1 (high affinity aspartate/glutamate transporter), member 6"
+203085_s_at,-0.6366,6.108665831420268e-06,Azalan,TGFB1,"transforming growth factor, beta 1"
+1557180_at,0.6208,6.2303460885431e-06,Artan,C11orf87,chromosome 11 open reading frame 87
+210872_x_at,0.5195,7.524868765387833e-06,Artan,GAS7,growth arrest-specific 7
+235948_at,0.6511,8.507968146105995e-06,Artan,RIMKLA,ribosomal modification protein rimK-like family member A
+236107_at,-0.6029,9.267549046866336e-06,Azalan,UBE2Z,ubiquitin-conjugating enzyme E2Z
+208221_s_at,0.5764,9.478190575720062e-06,Artan,SLIT1,slit homolog 1 (Drosophila)
+239500_at,0.6362,9.46794406888315e-06,Artan,EFCAB1,EF-hand calcium binding domain 1
+1552879_a_at,0.5209,1.0875551255827427e-05,Artan,ATOH7,atonal homolog 7 (Drosophila)
+1552760_at,0.702,1.1056370659233746e-05,Artan,HDAC9,histone deacetylase 9
+214589_at,0.6107,1.1189912852757337e-05,Artan,FGF12,fibroblast growth factor 12
+234904_x_at,0.6256,1.1284577414841012e-05,Artan,ELAVL4,ELAV like neuron-specific RNA binding protein 4
+206089_at,0.5473,1.1715835375422495e-05,Artan,NELL1,NEL-like 1 (chicken)
+215020_at,0.5486,1.2507823288483788e-05,Artan,NRXN3,neurexin 3
+1562234_a_at,0.5981,1.247995738474819e-05,Artan,NAV3,neuron navigator 3
+204787_at,-0.7466,1.3354978423048711e-05,Azalan,VSIG4,V-set and immunoglobulin domain containing 4
+225239_at,-0.5754,1.3630450525319355e-05,Azalan,MIR612 /// NEAT1,microRNA 612 /// nuclear paraspeckle assembly transcript 1 (non-protein coding)
+240974_at,0.5224,1.4101096182143346e-05,Artan,LOC100506851,uncharacterized LOC100506851
+213807_x_at,0.5768,1.4358411121372211e-05,Artan,MET,"MET proto-oncogene, receptor tyrosine kinase"
+227339_at,0.518,1.4301698912125544e-05,Artan,RGMB,repulsive guidance molecule family member b
+224539_s_at,0.5508,1.4419678486327477e-05,Artan,PCDHAC2,"protocadherin alpha subfamily C, 2"
+224356_x_at,-0.8059,1.4385638246348928e-05,Azalan,MS4A6A,"membrane-spanning 4-domains, subfamily A, member 6A"
+231053_at,0.6509,1.4532040169321309e-05,Artan,KCNB1,"potassium voltage-gated channel, Shab-related subfamily, member 1"
+1560225_at,0.6231,1.464748526044433e-05,Artan,CNR1,cannabinoid receptor 1 (brain)
+206171_at,-0.8443,1.5638586061073743e-05,Azalan,ADORA3,adenosine A3 receptor
+1559970_at,0.5841,1.601459872693029e-05,Artan,LOC100506731,uncharacterized LOC100506731
+204507_s_at,0.5011,1.6031389831739076e-05,Artan,PPP3R1,"protein phosphatase 3, regulatory subunit B, alpha"
+202546_at,-0.5574,1.6336835623649137e-05,Azalan,VAMP8,vesicle-associated membrane protein 8
+222124_at,-0.5456,1.662799074795851e-05,Azalan,HIF3A,"hypoxia inducible factor 3, alpha subunit"
+211599_x_at,0.7345,1.6588972860912632e-05,Artan,MET,"MET proto-oncogene, receptor tyrosine kinase"
+223280_x_at,-0.7936,1.7527752825989458e-05,Azalan,MS4A6A,"membrane-spanning 4-domains, subfamily A, member 6A"
+216218_s_at,0.5967,1.7836492379548212e-05,Artan,PLCL2,phospholipase C-like 2
+230217_at,0.5328,1.7879489528527563e-05,Artan,CLVS1,clavesin 1
+223343_at,-0.6467,1.8101560526093394e-05,Azalan,MS4A7,"membrane-spanning 4-domains, subfamily A, member 7"
+201721_s_at,-0.5224,1.815433596473436e-05,Azalan,LAPTM5,lysosomal protein transmembrane 5
+212960_at,0.6672,1.8677051809110463e-05,Artan,TBC1D9,"TBC1 domain family, member 9 (with GRAM domain)"
+211067_s_at,0.5283,1.8865616303065463e-05,Artan,GAS7,growth arrest-specific 7
+234989_at,-0.5526,1.910622005673524e-05,Azalan,MIR612 /// NEAT1,microRNA 612 /// nuclear paraspeckle assembly transcript 1 (non-protein coding)
+207826_s_at,-0.5941,2.1616419501215088e-05,Azalan,ID3,"inhibitor of DNA binding 3, dominant negative helix-loop-helix protein"
+200641_s_at,0.524,2.1853579595596244e-05,Artan,YWHAZ,"tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, zeta"
+210349_at,0.5491,2.3774256381562464e-05,Artan,CAMK4,calcium/calmodulin-dependent protein kinase IV
+1552798_a_at,-0.572,2.4259995612671783e-05,Azalan,TLR4,toll-like receptor 4
+206865_at,0.5315,2.4670973031361094e-05,Artan,HRK,"harakiri, BCL2 interacting protein"
+232806_s_at,0.5403,2.4878187695994124e-05,Artan,FAM131A,"family with sequence similarity 131, member A"
+243452_at,0.5044,2.5341444683511927e-05,Artan,LOC646778,uncharacterized LOC646778
+230967_s_at,0.586,2.5506041616618225e-05,Artan,USP7,ubiquitin specific peptidase 7 (herpes virus-associated)
+211871_x_at,0.6327,2.6574723895273816e-05,Artan,GNB5,"guanine nucleotide binding protein (G protein), beta 5"
+207732_s_at,0.6666,2.727747759807214e-05,Artan,DLG3,"discs, large homolog 3 (Drosophila)"
+221210_s_at,-0.5016,2.832200797007867e-05,Azalan,NPL,N-acetylneuraminate pyruvate lyase (dihydrodipicolinate synthase)
+227824_at,0.8917,2.8409170949625344e-05,Artan,PRKCB,"protein kinase C, beta"
+210518_at,0.5023,2.8431841238138065e-05,Artan,CDH8,"cadherin 8, type 2"
+205901_at,0.8057,2.842378112460827e-05,Artan,PNOC,prepronociceptin
+212729_at,0.5233,2.8444748918970934e-05,Artan,DLG3,"discs, large homolog 3 (Drosophila)"
+232062_at,0.7259,2.835682361470315e-05,Artan,ADCY1,adenylate cyclase 1 (brain)
+204338_s_at,0.9941,2.8822723840901632e-05,Artan,RGS4,regulator of G-protein signaling 4
+205778_at,0.6429,2.9397373062240252e-05,Artan,KLK7,kallikrein-related peptidase 7
+1554633_a_at,0.7558,3.0099861316288604e-05,Artan,MYT1L,myelin transcription factor 1-like
+217930_s_at,0.5297,3.0185255447880987e-05,Artan,TOLLIP,toll interacting protein
+207400_at,0.5537,3.04736784968014e-05,Artan,NPY5R,neuropeptide Y receptor Y5
+207704_s_at,0.5573,3.0563248416205404e-05,Artan,GAS7,growth arrest-specific 7
+201048_x_at,0.6285,3.121058491499251e-05,Artan,RAB6A /// WTH3DI,"RAB6A, member RAS oncogene family /// RAB6C-like"
+209615_s_at,0.7583,3.270459906885639e-05,Artan,PAK1,p21 protein (Cdc42/Rac)-activated kinase 1
+1555766_a_at,0.8865,3.317751071394641e-05,Artan,GNG2,"guanine nucleotide binding protein (G protein), gamma 2"
+207124_s_at,0.5414,3.365503424239607e-05,Artan,GNB5,"guanine nucleotide binding protein (G protein), beta 5"
+223922_x_at,-0.5996,3.576877290405888e-05,Azalan,MS4A6A,"membrane-spanning 4-domains, subfamily A, member 6A"
+223653_x_at,0.5793,3.625039196562976e-05,Artan,CELF4,"CUGBP, Elav-like family member 4"
+221279_at,0.568,3.658728126105587e-05,Artan,GDAP1,ganglioside induced differentiation associated protein 1
+238862_at,0.6494,4.0122333305399387e-05,Artan,MFSD4,major facilitator superfamily domain containing 4
+205984_at,0.7124,4.054214759263632e-05,Artan,CRHBP,corticotropin releasing hormone binding protein
+224965_at,0.6796,4.077949534484948e-05,Artan,GNG2,"guanine nucleotide binding protein (G protein), gamma 2"
+210127_at,0.534,4.1274450893851415e-05,Artan,RAB6B,"RAB6B, member RAS oncogene family"
+219645_at,0.519,4.3980546372527776e-05,Artan,CASQ1,"calsequestrin 1 (fast-twitch, skeletal muscle)"
+1553194_at,0.6945,4.415869009323272e-05,Artan,NEGR1,neuronal growth regulator 1
+202873_at,0.6806,4.540492874394535e-05,Artan,ATP6V1C1,"ATPase, H+ transporting, lysosomal 42kDa, V1 subunit C1"
+205149_s_at,0.539,4.544940717106253e-05,Artan,CLCN4,"chloride channel, voltage-sensitive 4"
+204006_s_at,-0.8917,4.596103575154394e-05,Azalan,FCGR3A /// FCGR3B,"Fc fragment of IgG, low affinity IIIa, receptor (CD16a) /// Fc fragment of IgG, low affinity IIIb, receptor (CD16b)"
+242019_at,0.7133,4.600571391569547e-05,Artan,CERS6,ceramide synthase 6
+205535_s_at,0.6224,4.650594639065688e-05,Artan,PCDH7,protocadherin 7
+207152_at,0.5859,4.639811826447393e-05,Artan,NTRK2,"neurotrophic tyrosine kinase, receptor, type 2"
+244584_at,0.8082,4.689387878594045e-05,Artan,KIAA1549L,KIAA1549-like
+205850_s_at,0.6847,4.754665481849459e-05,Artan,GABRB3,"gamma-aminobutyric acid (GABA) A receptor, beta 3"
+206577_at,0.544,4.8241604156001995e-05,Artan,VIP,vasoactive intestinal peptide
+242825_at,0.5168,4.955610549700718e-05,Artan,LPPR5,lipid phosphate phosphatase-related protein type 5
+211925_s_at,0.5364,4.986158638443219e-05,Artan,PLCB1,"phospholipase C, beta 1 (phosphoinositide-specific)"
+201971_s_at,0.5746,5.0827888985466295e-05,Artan,ATP6V1A,"ATPase, H+ transporting, lysosomal 70kDa, V1 subunit A"
+208065_at,0.5951,5.1013779863377985e-05,Artan,ST8SIA3,"ST8 alpha-N-acetyl-neuraminide alpha-2,8-sialyltransferase 3"
+213566_at,-0.6287,5.114431419712206e-05,Azalan,RNASE6,"ribonuclease, RNase A family, k6"
+242372_s_at,0.65,5.190954972186162e-05,Artan,MFSD4,major facilitator superfamily domain containing 4
+217465_at,0.5207,5.232616358860382e-05,Artan,NCKAP1,NCK-associated protein 1
+1558122_s_at,0.5356,5.321313992763822e-05,Artan,CSRNP3,cysteine-serine-rich nuclear protein 3
+206248_at,0.6704,5.339835722310185e-05,Artan,PRKCE,"protein kinase C, epsilon"
+1555668_a_at,0.5521,5.372160545617356e-05,Artan,PARK2,parkin RBR E3 ubiquitin protein ligase
+207501_s_at,0.6268,5.361050505317018e-05,Artan,FGF12,fibroblast growth factor 12
+214553_s_at,0.5035,5.3568100680957575e-05,Artan,ARPP19,"cAMP-regulated phosphoprotein, 19kDa"
+211864_s_at,-0.5112,5.3459152750200934e-05,Azalan,MYOF,myoferlin
+224650_at,0.5001,5.355856776090357e-05,Artan,MAL2,"mal, T-cell differentiation protein 2 (gene/pseudogene)"
+216920_s_at,-0.6183,5.4271035748191295e-05,Azalan,TARP /// TRGC2 /// TRGV9,TCR gamma alternate reading frame protein /// T cell receptor gamma constant 2 /// T cell receptor gamma variable 9
+207352_s_at,0.7895,5.524637675858098e-05,Artan,GABRB2,"gamma-aminobutyric acid (GABA) A receptor, beta 2"
+1557181_s_at,0.5282,5.525353164283819e-05,Artan,C11orf87,chromosome 11 open reading frame 87
+207772_s_at,0.5149,5.614362248784017e-05,Artan,PRMT8,protein arginine methyltransferase 8
+230437_s_at,0.8059,5.8370403516501346e-05,Artan,PRKCB,"protein kinase C, beta"
+225800_at,0.5014,5.850964735030069e-05,Artan,JAZF1,JAZF zinc finger 1
+216375_s_at,0.525,6.182269903377568e-05,Artan,ETV5,ets variant 5
+205799_s_at,0.5519,6.329292205200394e-05,Artan,SLC3A1,"solute carrier family 3 (amino acid transporter heavy chain), member 1"
+229475_at,0.5003,6.377023299565321e-05,Artan,MAEL,maelstrom spermatogenic transposon silencer
+206678_at,0.5085,6.378560005242489e-05,Artan,GABRA1,"gamma-aminobutyric acid (GABA) A receptor, alpha 1"
+203768_s_at,0.6014,6.818403465256421e-05,Artan,STS,"steroid sulfatase (microsomal), isozyme S"
+241729_at,0.5422,7.048663207824999e-05,Artan,DOK6,docking protein 6
+206356_s_at,0.5211,7.265747625076229e-05,Artan,GNAL,"guanine nucleotide binding protein (G protein), alpha activating activity polypeptide, olfactory type"
+210550_s_at,0.5528,7.526025539630057e-05,Artan,RASGRF1,Ras protein-specific guanine nucleotide-releasing factor 1
+1570253_a_at,0.6743,7.58280071639825e-05,Artan,RHEBL1,Ras homolog enriched in brain like 1
+210363_s_at,0.5685,7.65444671506318e-05,Artan,SCN2B,"sodium channel, voltage-gated, type II, beta subunit"
+210718_s_at,-0.627,7.668125829871645e-05,Azalan,ARL17A /// ARL17B /// LOC100294341,ADP-ribosylation factor-like 17A /// ADP-ribosylation factor-like 17B /// ADP-ribosylation factor-like protein 17-like
+224530_s_at,0.5655,7.690484428701359e-05,Artan,KCNIP4,Kv channel interacting protein 4
+224489_at,-0.5203,7.749012625572613e-05,Azalan,LOC100294341 /// LOC101929774,ADP-ribosylation factor-like protein 17-like /// uncharacterized LOC101929774
+207053_at,0.8052,7.874693034424422e-05,Artan,SLC8A1,"solute carrier family 8 (sodium/calcium exchanger), member 1"
+238320_at,-0.5137,8.107925601866674e-05,Azalan,MIR612 /// NEAT1,microRNA 612 /// nuclear paraspeckle assembly transcript 1 (non-protein coding)
+208593_x_at,0.6756,8.275658893715916e-05,Artan,CRHR1,corticotropin releasing hormone receptor 1
+210315_at,0.7403,8.283672364189051e-05,Artan,SYN2,synapsin II
+1555800_at,0.5125,8.329862266823852e-05,Artan,ZNF385B,zinc finger protein 385B
+207050_at,0.6717,8.329798798915278e-05,Artan,CACNA2D1,"calcium channel, voltage-dependent, alpha 2/delta subunit 1"
+204339_s_at,0.6272,8.3750464928003e-05,Artan,RGS4,regulator of G-protein signaling 4
+212216_at,0.516,8.768431782299298e-05,Artan,PREPL,prolyl endopeptidase-like
+206489_s_at,0.6101,8.8810159297379e-05,Artan,DLGAP1,"discs, large (Drosophila) homolog-associated protein 1"
+203265_s_at,0.5014,8.974273079428435e-05,Artan,MAP2K4,mitogen-activated protein kinase kinase 4
+202957_at,-0.6323,9.064408784272579e-05,Azalan,HCLS1,hematopoietic cell-specific Lyn substrate 1
+244170_at,0.8224,9.30214547781934e-05,Artan,RAB3C,"RAB3C, member RAS oncogene family"
+206383_s_at,0.5195,9.641149667258665e-05,Artan,G3BP2,GTPase activating protein (SH3 domain) binding protein 2
+219302_s_at,0.6427,9.703581468175003e-05,Artan,CNTNAP2,contactin associated protein-like 2
+208457_at,0.6181,9.894688635914814e-05,Artan,GABRD,"gamma-aminobutyric acid (GABA) A receptor, delta"
+1554500_a_at,0.5057,0.00010086677854988833,Artan,RGS7,regulator of G-protein signaling 7
+1552766_at,0.5648,0.00010126890384519386,Artan,HS6ST2,heparan sulfate 6-O-sulfotransferase 2
+225516_at,-0.5503,0.00010213163831990338,Azalan,SLC7A2,"solute carrier family 7 (cationic amino acid transporter, y+ system), member 2"
+204989_s_at,-0.6044,0.00010217767505960019,Azalan,ITGB4,"integrin, beta 4"
+1555313_a_at,0.5244,0.00010278252653129611,Artan,MCF2,MCF.2 cell line derived transforming sequence
+1559633_a_at,0.7433,0.00010310546460142662,Artan,CHRM3,"cholinergic receptor, muscarinic 3"
+200660_at,-0.5313,0.00010574522513763069,Azalan,S100A11,S100 calcium binding protein A11
+225353_s_at,-0.6616,0.00010647239265257828,Azalan,C1QC,"complement component 1, q subcomponent, C chain"
+203561_at,-0.616,0.00010668007305200489,Azalan,FCGR2A,"Fc fragment of IgG, low affinity IIa, receptor (CD32)"
+209813_x_at,-0.5689,0.00010816801332479403,Azalan,TARP /// TRGC2 /// TRGV9,TCR gamma alternate reading frame protein /// T cell receptor gamma constant 2 /// T cell receptor gamma variable 9
+1556029_s_at,0.7585,0.00010885128928477575,Artan,NMNAT2,nicotinamide nucleotide adenylyltransferase 2
+1552660_a_at,0.5004,0.00010884080399570287,Artan,C5orf22,chromosome 5 open reading frame 22
+203645_s_at,-1.0595,0.000109136473894879,Azalan,CD163,CD163 molecule
+1553428_at,0.6082,0.00010976751395041904,Artan,LY86-AS1,LY86 antisense RNA 1
+206534_at,0.5828,0.0001107338786998089,Artan,GRIN2A,"glutamate receptor, ionotropic, N-methyl D-aspartate 2A"
+1552842_at,0.8696,0.00011176277042628427,Artan,HS6ST3,heparan sulfate 6-O-sulfotransferase 3
+244194_at,0.5409,0.00011335721220492204,Artan,ADAM22,ADAM metallopeptidase domain 22
+229537_at,0.5017,0.0001146930412169352,Artan,LMO4,LIM domain only 4
+215049_x_at,-1.1217,0.0001189292804962144,Azalan,CD163,CD163 molecule
+213921_at,0.605,0.0001188480989502382,Artan,SST,somatostatin
+208092_s_at,0.5385,0.00012203345118227173,Artan,FAM49A,"family with sequence similarity 49, member A"
+208172_s_at,0.5153,0.00012399190137677804,Artan,KCNB2,"potassium voltage-gated channel, Shab-related subfamily, member 2"
+217280_x_at,0.6357,0.0001287721636758105,Artan,GABRA5,"gamma-aminobutyric acid (GABA) A receptor, alpha 5"
+221082_s_at,0.5423,0.0001287963549950115,Artan,NDRG3,NDRG family member 3
+210750_s_at,0.7075,0.0001298185345420498,Artan,DLGAP1,"discs, large (Drosophila) homolog-associated protein 1"
+215806_x_at,-0.536,0.00012978877203517322,Azalan,TARP /// TRGC2 /// TRGV9,TCR gamma alternate reading frame protein /// T cell receptor gamma constant 2 /// T cell receptor gamma variable 9
+224840_at,-0.5325,0.0001336181751309189,Azalan,FKBP5,FK506 binding protein 5
+206670_s_at,0.7444,0.00013774027366371164,Artan,GAD1,"glutamate decarboxylase 1 (brain, 67kDa)"
+202953_at,-0.6895,0.0001376756767433757,Azalan,C1QB,"complement component 1, q subcomponent, B chain"
+214772_at,0.5051,0.00013911392872938374,Artan,KIAA1549L,KIAA1549-like
+220045_at,0.5518,0.00014164818518297613,Artan,NEUROD6,neuronal differentiation 6
+220673_s_at,0.9152,0.00014193165834689564,Artan,PPP4R4,"protein phosphatase 4, regulatory subunit 4"
+204990_s_at,-0.5169,0.00014248682900721662,Azalan,ITGB4,"integrin, beta 4"
+226068_at,-0.6131,0.0001449673603459532,Azalan,SYK,spleen tyrosine kinase
+201309_x_at,0.6624,0.00014972232986297835,Artan,NREP,neuronal regeneration related protein
+243753_at,0.5829,0.00015104153404002415,Artan,ERICH3,glutamate-rich 3
+208363_s_at,0.5175,0.00015259442706448939,Artan,INPP4A,"inositol polyphosphate-4-phosphatase, type I, 107kDa"
+210790_s_at,0.6966,0.00015399788409808818,Artan,SAR1A,"secretion associated, Ras related GTPase 1A"
+218232_at,-0.57,0.0001560857619503409,Azalan,C1QA,"complement component 1, q subcomponent, A chain"
+215687_x_at,0.6045,0.00015697894587041915,Artan,PLCB1,"phospholipase C, beta 1 (phosphoinositide-specific)"
+227944_at,0.5153,0.0001583001629990538,Artan,PTPN3,"protein tyrosine phosphatase, non-receptor type 3"
+243556_at,0.9034,0.00015826880161555777,Artan,NGEF,neuronal guanine nucleotide exchange factor
+219725_at,-0.5192,0.0001591521488559641,Azalan,TREM2,triggering receptor expressed on myeloid cells 2
+204924_at,-0.6675,0.00015980947362124502,Azalan,TLR2,toll-like receptor 2
+222774_s_at,0.5866,0.0001639444531427729,Artan,NETO2,neuropilin (NRP) and tolloid (TLL)-like 2
+207018_s_at,0.5975,0.00016418316429493406,Artan,RAB27B,"RAB27B, member RAS oncogene family"
+224536_s_at,0.9294,0.00016417118361233967,Artan,PCDHGC3 /// PCDHGC5,"protocadherin gamma subfamily C, 3 /// protocadherin gamma subfamily C, 5"
+215531_s_at,0.7117,0.00016452766722249238,Artan,GABRA5,"gamma-aminobutyric acid (GABA) A receptor, alpha 5"
+206849_at,0.6094,0.00016458003055131224,Artan,GABRG2,"gamma-aminobutyric acid (GABA) A receptor, gamma 2"
+208451_s_at,-0.7288,0.0001676801373619624,Azalan,C4A /// C4B /// C4B_2,"complement component 4A (Rodgers blood group) /// complement component 4B (Chido blood group) /// complement component 4B (Chido blood group), copy 2"
+1552715_a_at,0.7377,0.0001706624810661726,Artan,RXFP1,relaxin/insulin-like family peptide receptor 1
+231804_at,0.5956,0.00017184517876671525,Artan,RXFP1,relaxin/insulin-like family peptide receptor 1
+221698_s_at,-0.5121,0.00017267114765695478,Azalan,CLEC7A,"C-type lectin domain family 7, member A"
+243836_at,0.5716,0.00017618337625381037,Artan,UNC80,unc-80 homolog (C. elegans)
+1556069_s_at,-0.5362,0.00017681263798562292,Azalan,HIF3A,"hypoxia inducible factor 3, alpha subunit"
+217767_at,-0.5645,0.0001872253066534161,Azalan,C3,complement component 3
+223620_at,-0.5507,0.00018847935422961666,Azalan,GPR34,G protein-coupled receptor 34
+212063_at,-1.0151,0.0001888102004190739,Azalan,CD44,CD44 molecule (Indian blood group)
+204888_s_at,0.5003,0.00019049753594698295,Artan,NEURL1,neuralized E3 ubiquitin protein ligase 1
+235463_s_at,0.5278,0.00019818326499997864,Artan,CERS6,ceramide synthase 6
+203798_s_at,0.5106,0.00019813140142707947,Artan,VSNL1,visinin-like 1
+229374_at,0.5404,0.0002025757362825377,Artan,EPHA4,EPH receptor A4
+1564339_a_at,0.568,0.00020320767483874983,Artan,CHRM3,"cholinergic receptor, muscarinic 3"
+241902_at,0.5208,0.00020503129445676452,Artan,MKX,mohawk homeobox
+207940_x_at,0.6169,0.00020500172422314173,Artan,CNR1,cannabinoid receptor 1 (brain)
+205924_at,0.8004,0.00020742314485328807,Artan,RAB3B,"RAB3B, member RAS oncogene family"
+224856_at,-0.5372,0.0002113413706194056,Azalan,FKBP5,FK506 binding protein 5
+1555349_a_at,-0.5759,0.00021220925211956745,Azalan,ITGB2,"integrin, beta 2 (complement component 3 receptor 3 and 4 subunit)"
+204489_s_at,-0.8902,0.00021267768415036243,Azalan,CD44,CD44 molecule (Indian blood group)
+211451_s_at,0.508,0.00021518209625587479,Artan,KCNJ4,"potassium inwardly-rectifying channel, subfamily J, member 4"
+216096_s_at,0.5266,0.00021713801455262288,Artan,NRXN1,neurexin 1
+242183_at,0.5073,0.00022547215360555048,Artan,IRGQ,"immunity-related GTPase family, Q"
+207044_at,0.6622,0.00022615716740182748,Artan,THRB,"thyroid hormone receptor, beta"
+210939_s_at,0.5512,0.00023261011705456129,Artan,GRM1,"glutamate receptor, metabotropic 1"
+207058_s_at,0.5146,0.00023288051514748514,Artan,PARK2,parkin RBR E3 ubiquitin protein ligase
+229635_at,-0.757,0.0002358691948642171,Azalan,LINC01094,long intergenic non-protein coding RNA 1094
+205630_at,0.9887,0.00024090566323617185,Artan,CRH,corticotropin releasing hormone
+231744_at,0.5026,0.00024114144419619583,Artan,CELF5,"CUGBP, Elav-like family member 5"
+207594_s_at,0.5648,0.00024117558702342547,Artan,SYNJ1,synaptojanin 1
+227062_at,-0.6243,0.0002486834875598508,Azalan,MIR612 /// NEAT1,microRNA 612 /// nuclear paraspeckle assembly transcript 1 (non-protein coding)
+230137_at,0.5128,0.0002534941091666126,Artan,TMEM155,transmembrane protein 155
+201843_s_at,-0.5879,0.00025866466130777387,Azalan,EFEMP1,EGF containing fibulin-like extracellular matrix protein 1
+204490_s_at,-0.8526,0.00025854441673387395,Azalan,CD44,CD44 molecule (Indian blood group)
+233471_at,0.5457,0.00025920903004824774,Artan,PTPN5,"protein tyrosine phosphatase, non-receptor type 5 (striatum-enriched)"
+205856_at,-0.6674,0.00025946625348657464,Azalan,SLC14A1,"solute carrier family 14 (urea transporter), member 1 (Kidd blood group)"
+1557720_s_at,0.5309,0.0002654924241916941,Artan,MYO16,myosin XVI
+205925_s_at,0.7841,0.0002658762796400122,Artan,RAB3B,"RAB3B, member RAS oncogene family"
+206547_s_at,0.5981,0.00027158735317126827,Artan,PPEF1,"protein phosphatase, EF-hand calcium binding domain 1"
+214652_at,0.6311,0.0002726899798286968,Artan,DRD1,dopamine receptor D1
+221354_s_at,0.7232,0.00027947710926222143,Artan,MCHR1,melanin-concentrating hormone receptor 1
+231186_at,0.5721,0.00028299693057603755,Artan,LINC00643,long intergenic non-protein coding RNA 643
+1553418_a_at,0.7542,0.0002857583613523353,Artan,CNTNAP5,contactin associated protein-like 5
+220294_at,0.5729,0.0002874013397725499,Artan,KCNV1,"potassium channel, subfamily V, member 1"
+210644_s_at,-0.5075,0.0002926694181479332,Azalan,LAIR1,leukocyte-associated immunoglobulin-like receptor 1
+202803_s_at,-0.5537,0.0003021623211054217,Azalan,ITGB2,"integrin, beta 2 (complement component 3 receptor 3 and 4 subunit)"
+219256_s_at,-0.5277,0.00030274392066328157,Azalan,SH3TC1,SH3 domain and tetratricopeptide repeats 1
+207141_s_at,0.5381,0.0003069095263136674,Artan,KCNJ3,"potassium inwardly-rectifying channel, subfamily J, member 3"
+203770_s_at,0.5439,0.0003167120855882427,Artan,STS,"steroid sulfatase (microsomal), isozyme S"
+201666_at,-0.6497,0.00031756865447068273,Azalan,TIMP1,TIMP metallopeptidase inhibitor 1
+204560_at,-0.5303,0.00031981476452832354,Azalan,FKBP5,FK506 binding protein 5
+210015_s_at,0.504,0.000320472657522845,Artan,MAP2,microtubule-associated protein 2
+207968_s_at,0.6315,0.00032988704840121783,Artan,MEF2C,myocyte enhancer factor 2C
+1567628_at,-0.5367,0.0003321407463927274,Azalan,CD74,"CD74 molecule, major histocompatibility complex, class II invariant chain"
+205196_s_at,0.5077,0.00033416787153386793,Artan,AP1S1,"adaptor-related protein complex 1, sigma 1 subunit"
+204174_at,-0.5509,0.00033569980455516886,Azalan,ALOX5AP,arachidonate 5-lipoxygenase-activating protein
+234024_at,0.8027,0.0003440153093903034,Artan,CBLN4,cerebellin 4 precursor
+215913_s_at,0.624,0.0003548660309728099,Artan,GULP1,"GULP, engulfment adaptor PTB domain containing 1"
+212014_x_at,-0.7622,0.0003619412361684622,Azalan,CD44,CD44 molecule (Indian blood group)
+204472_at,-0.6045,0.00036429701862000975,Azalan,GEM,GTP binding protein overexpressed in skeletal muscle
+209933_s_at,-0.539,0.0003662072953527906,Azalan,CD300A,CD300a molecule
+223891_at,0.8755,0.00036769435725644487,Artan,KCNQ5,"potassium voltage-gated channel, KQT-like subfamily, member 5"
+1554899_s_at,-0.5009,0.0003776685428630208,Azalan,FCER1G,"Fc fragment of IgE, high affinity I, receptor for; gamma polypeptide"
+207049_at,0.6236,0.0003801168936702828,Artan,SCN8A,"sodium channel, voltage gated, type VIII, alpha subunit"
+207542_s_at,-0.9184,0.0003899524269874232,Azalan,AQP1,aquaporin 1 (Colton blood group)
+233234_at,0.561,0.0003947643607726243,Artan,KCTD16,potassium channel tetramerization domain containing 16
+202948_at,-0.5294,0.00039528453303741795,Azalan,IL1R1,"interleukin 1 receptor, type I"
+211990_at,-0.5068,0.0003953299708910343,Azalan,HLA-DPA1,"major histocompatibility complex, class II, DP alpha 1"
+240532_at,0.5835,0.0004078383195836594,Artan,SLC32A1,"solute carrier family 32 (GABA vesicular transporter), member 1"
+243967_at,0.6727,0.00041073516237812583,Artan,AFF3,"AF4/FMR2 family, member 3"
+1557721_at,0.5281,0.00041208593404331906,Artan,RP11-416I2.1,
+203854_at,-0.5894,0.0004181119725082312,Azalan,CFI,complement factor I
+239488_at,0.5252,0.00042034442373267033,Artan,PPM1L,"protein phosphatase, Mg2+/Mn2+ dependent, 1L"
+208243_s_at,0.7057,0.0004264345045353301,Artan,CNR1,cannabinoid receptor 1 (brain)
+210787_s_at,0.6994,0.00043529704236520674,Artan,CAMKK2,"calcium/calmodulin-dependent protein kinase kinase 2, beta"
+229151_at,-0.7607,0.0004409935347452984,Azalan,SLC14A1,"solute carrier family 14 (urea transporter), member 1 (Kidd blood group)"
+1566513_a_at,0.5405,0.00045108044096975943,Artan,GNG4,"guanine nucleotide binding protein (G protein), gamma 4"
+1562321_at,-0.5023,0.0004815705738577575,Azalan,PDK4,"pyruvate dehydrogenase kinase, isozyme 4"
+213592_at,-0.6708,0.0004989364962782021,Azalan,APLNR,apelin receptor
+236376_at,0.5573,0.0005083876577467267,Artan,RIMKLA,ribosomal modification protein rimK-like family member A
+219607_s_at,-0.632,0.0005617205686165142,Azalan,MS4A4A,"membrane-spanning 4-domains, subfamily A, member 4A"
+226459_at,-0.5395,0.0005633229333158496,Azalan,PIK3AP1,phosphoinositide-3-kinase adaptor protein 1
+209835_x_at,-0.8271,0.0005632583504717057,Azalan,CD44,CD44 molecule (Indian blood group)
+206232_s_at,0.5389,0.0005699650347392608,Artan,B4GALT6,"UDP-Gal:betaGlcNAc beta 1,4- galactosyltransferase, polypeptide 6"
+208116_s_at,0.6093,0.000578216418491523,Artan,MAN1A1,"mannosidase, alpha, class 1A, member 1"
+204187_at,-0.5301,0.000578881373002435,Azalan,GMPR,guanosine monophosphate reductase
+1558971_at,0.5879,0.0005873600277303359,Artan,THEMIS,thymocyte selection associated
+1557042_at,0.592,0.0005887943773736932,Artan,KCNQ3,"potassium voltage-gated channel, KQT-like subfamily, member 3"
+214428_x_at,-0.5103,0.00062989656881207,Azalan,C4A /// C4B /// C4B_2,"complement component 4A (Rodgers blood group) /// complement component 4B (Chido blood group) /// complement component 4B (Chido blood group), copy 2"
+225207_at,-0.5503,0.0006441423255778301,Azalan,PDK4,"pyruvate dehydrogenase kinase, isozyme 4"
+208894_at,-0.6048,0.0006477242601850354,Azalan,HLA-DRA,"major histocompatibility complex, class II, DR alpha"
+237177_at,0.649,0.0006569907801289857,Artan,CNTN4,contactin 4
+227253_at,-0.7507,0.0006672842153254961,Azalan,CP,ceruloplasmin (ferroxidase)
+211124_s_at,0.5561,0.0006684104349550028,Artan,KITLG,KIT ligand
+214884_at,0.5562,0.0006771437868626062,Artan,MCF2,MCF.2 cell line derived transforming sequence
+1555564_a_at,-0.5375,0.0006822662742816489,Azalan,CFI,complement factor I
+1552367_a_at,-0.6614,0.0006982648290231052,Azalan,SCIN,scinderin
+216120_s_at,0.5694,0.0007032514708407653,Artan,ATP2B2,"ATPase, Ca++ transporting, plasma membrane 2"
+211586_s_at,0.692,0.0007218300271466067,Artan,ATP2B2,"ATPase, Ca++ transporting, plasma membrane 2"
+1554834_a_at,0.5362,0.0007238042291564845,Artan,RASSF5,Ras association (RalGDS/AF-6) domain family member 5
+1558034_s_at,-0.7769,0.0007530420958720471,Azalan,CP,ceruloplasmin (ferroxidase)
+210519_s_at,-0.5372,0.0007534272733432586,Azalan,NQO1,"NAD(P)H dehydrogenase, quinone 1"
+202833_s_at,-0.7842,0.0007594709338376193,Azalan,SERPINA1,"serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 1"
+201467_s_at,-0.5456,0.0007835246311420397,Azalan,NQO1,"NAD(P)H dehydrogenase, quinone 1"
+204846_at,-0.7579,0.0007876844922940401,Azalan,CP,ceruloplasmin (ferroxidase)
+202878_s_at,-0.6187,0.0007974542990456236,Azalan,CD93,CD93 molecule
+210982_s_at,-0.5663,0.0008028002228417175,Azalan,HLA-DRA,"major histocompatibility complex, class II, DR alpha"
+239275_at,0.665,0.0008116021721622863,Artan,FRMPD2 /// FRMPD2P1 /// LOC101930006,FERM and PDZ domain containing 2 /// FERM and PDZ domain containing 2 pseudogene 1 /// FERM and PDZ domain-containing protein 2-like
+219167_at,-0.6132,0.0008198156964299864,Azalan,RASL12,"RAS-like, family 12"
+207613_s_at,0.5087,0.00084599923505635,Artan,CAMK2A,calcium/calmodulin-dependent protein kinase II alpha
+207553_at,0.5287,0.0008700223944380019,Artan,OPRK1,"opioid receptor, kappa 1"
+204955_at,-0.5431,0.0009842896779819294,Azalan,SRPX,"sushi-repeat containing protein, X-linked"
+209047_at,-0.8745,0.001049241841518508,Azalan,AQP1,aquaporin 1 (Colton blood group)
+244561_at,0.5006,0.00113036385582355,Artan,SLC9A1,"solute carrier family 9, subfamily A (NHE1, cation proton antiporter 1), member 1"
+201468_s_at,-0.5426,0.001180323611784448,Azalan,NQO1,"NAD(P)H dehydrogenase, quinone 1"
+201761_at,-0.5281,0.0011879641771248874,Azalan,MTHFD2,"methylenetetrahydrofolate dehydrogenase (NADP+ dependent) 2, methenyltetrahydrofolate cyclohydrolase"
+238692_at,0.5384,0.0012496091262400551,Artan,BTBD11,BTB (POZ) domain containing 11
+236034_at,-0.5083,0.0012817225835588385,Azalan,ANGPT2,angiopoietin 2
+201743_at,-0.5797,0.0013730491964413431,Azalan,CD14,CD14 molecule
+228143_at,-0.5926,0.0014308479746140718,Azalan,CP,ceruloplasmin (ferroxidase)
+211905_s_at,-0.6181,0.0014793695286702303,Azalan,ITGB4,"integrin, beta 4"
+216895_at,0.5045,0.001496580543547564,Artan,GABRG3,"gamma-aminobutyric acid (GABA) A receptor, gamma 3"
+206223_at,0.5001,0.001535763873989989,Artan,LMTK2,lemur tyrosine kinase 2
+203665_at,-0.5622,0.0015416118237977742,Azalan,HMOX1,heme oxygenase (decycling) 1
+1560692_at,0.5196,0.001725900844277478,Artan,VSTM2A /// VSTM2A-OT1,V-set and transmembrane domain containing 2A /// VSTM2A overlapping transcript 1
+1552365_at,-0.7838,0.0018015694597658294,Azalan,SCIN,scinderin
+207452_s_at,0.6689,0.0018355325971695703,Artan,CNTN5,contactin 5
+209396_s_at,-0.8954,0.0018568451578587668,Azalan,CHI3L1,chitinase 3-like 1 (cartilage glycoprotein-39)
+210916_s_at,-0.6954,0.0019392834622057535,Azalan,CD44,CD44 molecule (Indian blood group)
+213397_x_at,-0.506,0.0020682463292153374,Azalan,RNASE4,"ribonuclease, RNase A family, 4"
+214511_x_at,-0.581,0.00209772298308988,Azalan,FCGR1B,"Fc fragment of IgG, high affinity Ib, receptor (CD64)"
+230388_s_at,-0.5111,0.002118587165608445,Azalan,KANSL1-AS1,KANSL1 antisense RNA 1
+1552722_at,0.6431,0.002120420745285551,Artan,ARPP21,"cAMP-regulated phosphoprotein, 21kDa"
+229345_at,0.574,0.0021243035190228665,Artan,RTN4RL2,reticulon 4 receptor-like 2
+205572_at,-0.5401,0.002215047268929507,Azalan,ANGPT2,angiopoietin 2
+229259_at,-0.6483,0.0024197736969163892,Azalan,GFAP,glial fibrillary acidic protein
+204429_s_at,-0.5169,0.00253247079801139,Azalan,SLC2A5,"solute carrier family 2 (facilitated glucose/fructose transporter), member 5"
+224099_at,0.5559,0.0025355506573840423,Artan,KCNH7,"potassium voltage-gated channel, subfamily H (eag-related), member 7"
+219584_at,-0.6033,0.0025394878417368608,Azalan,PLA1A,phospholipase A1 member A
+202376_at,-1.0179,0.0027290488295752913,Azalan,SERPINA3,"serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 3"
+204996_s_at,0.7528,0.0028185682945942956,Artan,CDK5R1,"cyclin-dependent kinase 5, regulatory subunit 1 (p35)"
+209395_at,-0.8178,0.0028553595754531092,Azalan,CHI3L1,chitinase 3-like 1 (cartilage glycoprotein-39)
+240614_at,0.5573,0.0030546181467865936,Artan,KCNC2,"potassium voltage-gated channel, Shaw-related subfamily, member 2"
+216950_s_at,-0.5364,0.0031338266841100795,Azalan,FCGR1A /// FCGR1B /// FCGR1C,"Fc fragment of IgG, high affinity Ia, receptor (CD64) /// Fc fragment of IgG, high affinity Ib, receptor (CD64) /// Fc fragment of IgG, high affinity Ic, receptor (CD64), pseudogene"
+201161_s_at,-0.508,0.0032881679803278005,Azalan,YBX3,Y box binding protein 3
+224408_at,0.627,0.0033904287223733816,Artan,MCHR2,melanin-concentrating hormone receptor 2
+210895_s_at,-0.5468,0.0035833204217821605,Azalan,CD86,CD86 molecule
+204563_at,-0.5233,0.004044257735394621,Azalan,SELL,selectin L
+209116_x_at,-0.5151,0.004189607630896279,Azalan,HBB,"hemoglobin, beta"
+1557905_s_at,-0.7394,0.004205598374069092,Azalan,CD44,CD44 molecule (Indian blood group)
+210991_s_at,0.6391,0.004332235921000685,Artan,RIMS3,regulating synaptic membrane exocytosis 3
+203240_at,-0.5434,0.0049532406044825415,Azalan,FCGBP,Fc fragment of IgG binding protein
+229247_at,0.5456,0.005384965666311896,Artan,FBLN7,fibulin 7
+213791_at,0.599,0.005929926441661843,Artan,PENK,proenkephalin
+233135_at,0.548,0.0063918173183773125,Artan,LINC01007,long intergenic non-protein coding RNA 1007
+36711_at,-0.5887,0.006420882027579061,Azalan,MAFF,v-maf avian musculoaponeurotic fibrosarcoma oncogene homolog F
+219014_at,-0.6605,0.006950838095863816,Azalan,PLAC8,placenta-specific 8
+230781_at,-0.7942,0.008908277716495721,Azalan,LINC01088,long intergenic non-protein coding RNA 1088
+213800_at,-0.6047,0.009355507162765002,Azalan,CFH,complement factor H
+223122_s_at,-0.5471,0.009546852214904668,Azalan,SFRP2,secreted frizzled-related protein 2
+207714_s_at,-0.5032,0.009619229220445493,Azalan,SERPINH1,"serpin peptidase inhibitor, clade H (heat shock protein 47), member 1, (collagen binding protein 1)"
+202988_s_at,-0.6813,0.010392500479353235,Azalan,RGS1,regulator of G-protein signaling 1
+232854_at,0.6118,0.010549628897587765,Artan,DIRAS1,"DIRAS family, GTP-binding RAS-like 1"
+206101_at,-0.5432,0.010664968030319404,Azalan,ECM2,"extracellular matrix protein 2, female organ and adipocyte specific"
+201324_at,-0.5586,0.010762752855944588,Azalan,EMP1,epithelial membrane protein 1
+1557475_at,0.5902,0.011362621103707882,Artan,LINC00507,long intergenic non-protein coding RNA 507
+205374_at,0.6261,0.0118103843211661,Artan,SLN,sarcolipin
+201645_at,-0.6502,0.012427941676615888,Azalan,TNC,tenascin C
+216834_at,-0.7175,0.013481272007546674,Azalan,RGS1,regulator of G-protein signaling 1
+227697_at,-0.6371,0.01567173475289612,Azalan,SOCS3,suppressor of cytokine signaling 3
+211479_s_at,0.6273,0.018385684941608183,Artan,HTR2C,"5-hydroxytryptamine (serotonin) receptor 2C, G protein-coupled"
+209728_at,-0.6288,0.01885505766337575,Azalan,HLA-DRB4,"major histocompatibility complex, class II, DR beta 4"
+232887_at,-0.6116,0.01938717423557308,Azalan,PIRT,phosphoinositide-interacting regulator of transient receptor potential channels
+202917_s_at,-0.7016,0.021023103699466437,Azalan,S100A8,S100 calcium binding protein A8
+201506_at,-0.5369,0.023081778730557372,Azalan,TGFBI,"transforming growth factor, beta-induced, 68kDa"
+228055_at,-0.5257,0.02789419540498241,Azalan,NAPSB,"napsin B aspartic peptidase, pseudogene"
+212671_s_at,-0.589,0.029153856027813597,Azalan,HLA-DQA1 /// HLA-DQA2 /// LOC100509457,"major histocompatibility complex, class II, DQ alpha 1 /// major histocompatibility complex, class II, DQ alpha 2 /// HLA class II histocompatibility antigen, DQ alpha 1 chain-like"
+207526_s_at,-0.8615,0.034412277416058124,Azalan,IL1RL1,interleukin 1 receptor-like 1
+206326_at,0.5379,0.03703871725182246,Artan,GRP,gastrin-releasing peptide
+213060_s_at,-0.626,0.04142201720017175,Azalan,CHI3L2,chitinase 3-like 2
